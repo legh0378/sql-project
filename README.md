@@ -71,7 +71,6 @@ ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
 </details>
-<br>
 <details>
 <summary>📊 <strong><span style="color: #ffd700">View Results Breakdown</span></strong></summary>
 
@@ -88,7 +87,6 @@ LIMIT 10;
 | 9 | SmartAsset | $189,000 |
 | 10 | Get It Recruit - Information Technology | $186,000 |
 </details>
-<br>
 <details>
 <summary>💡 <strong><span style="color: #ffd700">View Key Insights</span></strong></summary>
 
@@ -135,7 +133,6 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY top_paying_jobs.salary_year_avg DESC;
 ```
 </details>
-<br>
 <details>
 <summary>📊 <strong><span style="color: #ffd700">View Results Breakdown</span></strong></summary>
 
@@ -150,7 +147,6 @@ ORDER BY top_paying_jobs.salary_year_avg DESC;
 | SmartAsset | $186,000 | sql, python, go, snowflake, pandas, numpy, excel, tableau, gitlab |
 | Get It Recruit - Information Technology | $184,000 | sql, python, r |
 </details>
-<br>
 <details>
 <summary>💡 <strong><span style="color: #ffd700">View Key Insights</span></strong></summary>
 
@@ -181,7 +177,6 @@ ORDER BY demand_count DESC
 LIMIT 5;
 ```
 </details>
-<br>
 <details>
 <summary>📊 <strong><span style="color: #ffd700">View Results Breakdown</span></strong></summary>
 
@@ -193,7 +188,6 @@ LIMIT 5;
 | tableau | 850 |
 | power bi | 800 |
 </details>
-<br>
 <details>
 <summary>💡 <strong><span style="color: #ffd700">View Key Insights</span></strong></summary>
 
@@ -226,7 +220,6 @@ ORDER BY avg_salary DESC
 LIMIT 25;
 ```
 </details>
-<br>
 <details>
 <summary>📊 <strong><span style="color: #ffd700">View Results Breakdown</span></strong></summary>
 
@@ -243,7 +236,6 @@ LIMIT 25;
 | aws | $165,000 |
 | r | $160,000 |
 </details>
-<br>
 <details>
 <summary>💡 <strong><span style="color: #ffd700">View Key Insights</span></strong></summary>
 
@@ -283,7 +275,6 @@ ORDER BY
 LIMIT 25;
 ```
 </details>
-<br>
 <details>
 <summary>📊 <strong><span style="color: #ffd700">View Results Breakdown</span></strong></summary>
 
@@ -300,7 +291,6 @@ LIMIT 25;
 | aws | 300 | $165,000 |
 | r | 250 | $160,000 |
 </details>
-<br>
 <details>
 <summary>💡 <strong><span style="color: #ffd700">View Key Insights</span></strong></summary>
 
@@ -308,7 +298,6 @@ LIMIT 25;
 - **Emerging Technologies**: Skills like Snowflake, Go, and cloud platforms (Azure, AWS) offer a strong combination of demand and salary.
 - **Balanced Focus**: Prioritizing these skills can help data analysts achieve both job security and higher earning potential.
 </details>
-<br>
 
 # <span style="color: #4d94ff">Conclusion</span>
 ### What I learned
@@ -331,4 +320,4 @@ LIMIT 25;
 
 🎥 A special thanks goes to **<span style="color: #ffd700">Luck Barousse</span>**, whose YouTube tutorials on SQL for data analysts were incredibly helpful. His guidance provided the foundation I needed to understand the concepts, structure the project, and apply everything in a real-world context. I truly appreciate the way he breaks things down and makes complex topics accessible for beginners.
 
-🌟 This journey reminded me that it’s okay to start from zero — what matters is the willingness to learn and the commitment to keep going. I’m proud of how far I’ve come and excited to keep building from here.
+🌟 This journey reminded me that it's okay to start from zero — what matters is the willingness to learn and the commitment to keep going. I'm proud of how far I've come and excited to keep building from here.
