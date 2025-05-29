@@ -19,7 +19,3 @@ WHERE
   job_work_from_home = TRUE
 ORDER BY salary_year_avg DESC
 LIMIT 10;
-
-SELECT * FROM skills_dim;
-SELECT * FROM skills_job_dim
-WHERE job_id = 226942;
