@@ -6,6 +6,7 @@ This project explores data analyst roles, focusing on top-paying jobs and the mo
 It might sound dramatic—but it's actually my first SQL project, combining all the skills I've learned so far.
 
 ### 🔍 Curious? Check out the SQL queries right here: [CLICK HERE](/project/)
+Download the data here: https://drive.google.com/drive/folders/1Mx2kZk0UhII_q1jk4UUXAGFHY8pNVpDt?usp=sharing
 # <span style="color: #4d94ff">Background</span>
 ### This project seeks to answer the following key questions
 1. What are the top-paying jobs for my role?
